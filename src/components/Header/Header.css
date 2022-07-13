@@ -1,0 +1,24 @@
+
+.header{
+    margin-top: 5px;
+  }
+  .headerTitles{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .headerTitlesSm{
+    position:absoulte;
+    font-size: 20px;
+  }
+  .headerTitlesLg{
+    position:absoulte;
+     font-size: 30px;
+     }
+  .headerimg
+  {
+     width:100%;
+    height: 350px;
+    object-fit:cover;
+    
+  }

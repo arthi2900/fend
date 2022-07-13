@@ -1,0 +1,9 @@
+.Post{
+   display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 2%;
+    padding: 2%;
+    
+ }

@@ -1,0 +1,12 @@
+.uprofile{
+    display: flex;
+    flex-direction: column;
+    padding: 10%;
+}
+.uphoto{
+    width: 30%;
+    height:15%;
+    border: 1px solid gainsboro;
+    border-radius: 3%;
+  
+}
